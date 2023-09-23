@@ -1,0 +1,32 @@
+# Main Title
+main:
+  header:
+    title : "M. V. Viltch" # Title Text
+    description : "avid explorer, author, alien enthusiast" # Title Desc
+    button:
+      text: "About the Author" # Button Text
+      url: "#about" # Button URL
+
+# About
+about:
+  title: "Get to Know M. V. Viltch"
+  desc: "An avid explorer, author, and alien enthusiast, M.V. Viltch is a military academy graduate and ex Naval Reservist currently working in the maritime field. No experience with aliens just yet, despite best efforts."
+  button:
+    enable: false
+    text: "Button"
+    url: "#"
+  image: "assets/img/ipad.png"
+
+projects:
+  card1:
+    title: "Graysx"
+    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
+    img: "assets/img/bg-masthead.jpg"
+  card2:
+    title: "Graysx"
+    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
+    img: "assets/img/demo-image-01.jpg"
+  card3:
+    title: "Graysx"
+    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
+    img: "assets/img/demo-image-02.jpg"
