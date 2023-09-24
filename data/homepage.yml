@@ -17,7 +17,7 @@ about:
   button:
     enable: true
     text: "Read Now!"
-    url: "https://www.barnesandnoble.com/w/books/1144037977"
+    url: "https://www.amazon.com/dp/B0CFW46DBL?binding"
   image: "assets/img/viltch-composite.png"
 
 bio:
