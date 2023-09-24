@@ -1,7 +1,7 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://mvviltch.com/'
 languageCode = 'en-us'
 theme = 'graysx'
-title = 'M. V. Viltch Author Page'
+title = 'M. V. Viltch'
 
 ## Site Settings
 [params]
@@ -9,15 +9,15 @@ logo = "assets/img/logo.webp"
 favicon = "assets/favicon.png"
 
 # Info
-address = "123 Arch B1W, GNU/Linux"
-email = "hello@graysx.com"
-phone = "123456"
+# address = "123 Arch B1W, GNU/Linux"
+# email = "hello@graysx.com"
+# phone = "123456"
 
 # Socials
 
-twitter = "#"
-facebook = "#"
-github = "https://github.com/akatiggerx04/graysx-hugo"
+twitter = "https://twitter.com/Marinav071"
+# facebook = ""
+# github = ""
 
 # Other
 

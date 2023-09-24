@@ -2,31 +2,38 @@
 main:
   header:
     title : "M. V. Viltch" # Title Text
-    description : "avid explorer, author, alien enthusiast" # Title Desc
+    description : "explorer, author, alien enthusiast" # Title Desc
     button:
-      text: "About the Author" # Button Text
+      text: "Earth Legions" # Button Text
       url: "#about" # Button URL
 
 # About
 about:
-  title: "Get to Know M. V. Viltch"
-  desc: "An avid explorer, author, and alien enthusiast, M.V. Viltch is a military academy graduate and ex Naval Reservist currently working in the maritime field. No experience with aliens just yet, despite best efforts."
+  title: "Earth Legions"
+  desc: "Jake Adler's goals in life were simple—possibly nonexistent. All he wanted was to fly a desk. Hence, he'd joined the Space Force, the service with the most extensive array of Earth-side clerical specialties.
+        All he needed to make him happy was an office, a computer, his favorite coffee mug, and a never-ending pile of requisitions.
+        Then a pretty woman came along. Perhaps a drink or ten. Next thing Jake knew, he's shipped off to the Legions, doomed to fight in the seemingly endless war raging throughout the galaxy.
+        Now, survival tops the chart. Except that isn’t so easy to do in the Legions, where everyone's a killer, officers are as merciless as the enemy, and dark schemes and secrets brood within the ranks."
   button:
-    enable: false
-    text: "Button"
-    url: "#"
-  image: "assets/img/ipad.png"
+    enable: true
+    text: "Read Now!"
+    url: "https://www.barnesandnoble.com/w/books/1144037977"
+  image: "assets/img/viltch-composite.png"
+
+bio:
+  title: About the author
+  text: An avid explorer, author, and alien enthusiast, M.V. Viltch is a military academy graduate and ex Naval Reservist currently working in the maritime field. No experience with aliens just yet, despite best efforts.
 
 projects:
   card1:
-    title: "Graysx"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
-    img: "assets/img/bg-masthead.jpg"
+    title: "Gold Squad (Earth Legions #1)"
+    text: "For everyone on Earth the war is over. For him, it's just beginning."
+    img: "assets/img/viltch-1-3d.png"
   card2:
-    title: "Graysx"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
-    img: "assets/img/demo-image-01.jpg"
+    title: "Payback (Earth Legions #2)"
+    text: "Everyone wants to freakin' shoot me!"
+    img: "assets/img/viltch-2-3d.png"
   card3:
-    title: "Graysx"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
-    img: "assets/img/demo-image-02.jpg"
+    title: "Turning Point (Earth Legions #3)"
+    text: "Magic doesn't exist... but something else does."
+    img: "assets/img/viltch-3-3d.png"
